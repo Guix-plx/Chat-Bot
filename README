@@ -1,0 +1,30 @@
+# 🏋️‍♂️ Sistema Inteligente de Dieta e Treinamento 🍎
+
+Este é um projeto desenvolvido em **Python** utilizando a biblioteca **Tkinter** para criar uma interface gráfica amigável. O sistema automatiza o cálculo de necessidades calóricas diárias e gera, de forma dinâmica, sugestões de planos alimentares e rotinas de treino periodizadas com base no perfil individual do usuário.
+
+---
+
+## 🎯 Principais Funcionalidades
+
+* 🧮 **Cálculo de Taxa Metabólica (BMR/TDEE):** Baseado na fórmula matemática de Harris-Benedict, considerando peso, altura, idade e fator de atividade física.
+* 🥗 **Plano Alimentar Dinâmico:** Distribuição automatizada de calorias por refeição e seleção inteligente de alimentos.
+* 💪 **Periodização de Treinos:** Geração de rotinas que mesclam exercícios de força e cardio de forma equilibrada.
+* 🖥️ **Interface Gráfica Interativa:** Construída com a biblioteca desktop nativa do Python (`Tkinter`).
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem Principal:** Python 3
+* **Interface Gráfica:** Tkinter (GUI nativa)
+* **Lógica Aleatória:** Biblioteca `random` para seleção de dados
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Certifique-se de ter o Python instalado na sua máquina.
+2. Baixe o arquivo do código (`main.py`).
+3. Abra o terminal na pasta do arquivo e execute o comando:
+   ```bash
+   python main.py
